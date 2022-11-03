@@ -1,0 +1,41 @@
+[
+    {
+        "DisplayName": "Token",
+        "Category": "JMusicBot",
+        "Description": "",
+        "Keywords": "token",
+        "FieldName": "token",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "token",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Owen",
+        "Category": "JMusicBot",
+        "Description": "",
+        "Keywords": "owner",
+        "FieldName": "owner",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "owner",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Prefix",
+        "Category": "JMusicBot",
+        "Description": "",
+        "Keywords": "prefix",
+        "FieldName": "prefix",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "prefix",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "\".\"",
+        "EnumValues": {}
+    }
+]
